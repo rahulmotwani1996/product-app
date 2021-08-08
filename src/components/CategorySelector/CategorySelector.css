@@ -1,0 +1,7 @@
+.category-list-item {
+    color: #4581f1;
+}
+
+.category-list-item:hover {
+    text-decoration: underline;
+}

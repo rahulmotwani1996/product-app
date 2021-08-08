@@ -1,0 +1,9 @@
+.add-product-form {
+    padding: 20px;
+}
+
+.field-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}

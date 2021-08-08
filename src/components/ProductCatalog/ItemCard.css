@@ -1,0 +1,21 @@
+
+.product-img {
+    height: 160px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 1px solid #dbdada;
+    margin: 0px 0px 15px 15px;
+    border-radius: 4px;
+
+}
+
+.product-details {
+    padding: 10px;
+    max-width: 100%;
+}
